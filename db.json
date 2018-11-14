@@ -1,0 +1,23 @@
+{
+"products": [
+{"id":1,"name":"Wolf, common","category":"Fuscia"},
+{"id":2,"name":"Red sheep","category":"Red"},
+{"id":3,"name":"Heron, striated","category":"Crimson"},
+{"id":4,"name":"Macaw, red and blue","category":"Fuscia"},
+{"id":5,"name":"Capuchin, white-fronted","category":"Crimson"},
+{"id":6,"name":"Brown and yellow marshbird","category":"Crimson"},
+{"id":7,"name":"Parrot, hawk-headed","category":"Yellow"},
+{"id":8,"name":"Eastern cottontail rabbit","category":"Turquoise"},
+{"id":9,"name":"Moose","category":"Yellow"},
+{"id":10,"name":"Impala","category":"Green"},
+{"id":11,"name":"Dove, galapagos","category":"Indigo"},
+{"id":12,"name":"Hornbill, leadbeateri's ground","category":"Orange"},
+{"id":13,"name":"Prairie falcon","category":"Orange"},
+{"id":14,"name":"Meerkat, red","category":"Teal"},
+{"id":15,"name":"Possum, ring-tailed","category":"Indigo"},
+{"id":16,"name":"North American porcupine","category":"Teal"},
+{"id":17,"name":"Heron, boat-billed","category":"Red"},
+{"id":18,"name":"Frilled dragon","category":"Red"},
+{"id":19,"name":"Purple moorhen","category":"Pink"},
+{"id":20,"name":"South American puma","category":"Maroon"}]
+}
